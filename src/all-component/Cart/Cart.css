@@ -1,0 +1,21 @@
+.cart-container{
+    height: 285px;
+    margin-left: 8%;
+    padding-left: 3%;
+    box-shadow: 2px 2px 2px 4px;
+    border-radius: 2%;
+}
+
+ .cart-container big{font-weight: 500;}
+ .cart-container p{
+     font-weight: 500;
+     font-size: 13px;
+ }
+
+
+ .cart-container button{width: 96%;border-radius: 3%;
+     letter-spacing: 1px;
+     font-size: 19px;
+    font-weight: 700;}
+
+  .cart-container:hover{box-shadow: blue 2px 2px 2px 6px;}  

@@ -1,0 +1,17 @@
+.footer{
+  box-sizing: border-box;
+  height: 120px;
+  background-color: black;
+  padding:10px;
+  padding-left: 20px;
+  text-align: center;
+  padding-top: 1px;
+  margin-top: 10px;
+ }
+ .footer h3{color: white;
+        font-weight: 400;
+}
+.foo{padding: 22px;
+ padding-bottom: 29px;
+ height: 30px;
+}
